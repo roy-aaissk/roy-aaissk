@@ -1,5 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roy-aaissk&show_icons=true&theme=tokyonight)　　
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roy-aaissk&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roy-aaissk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
